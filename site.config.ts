@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Anthony Chen',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Anthony Chen',
+  name: 'Erdong (Anthony) Chen',
+  domain: 'chen.bio',
+  author: 'Erdong (Anthony) Chen',
 
   // open graph metadata (optional)
-  description: 'Anthony Chen\'s personal website, built with Next.js and Notion.',
+  description: 'Anthony Chen (Erdong Chen)\'s portfolio, blog website',
 
   // social usernames (optional)
   twitter: 'AnthonyCED1',
