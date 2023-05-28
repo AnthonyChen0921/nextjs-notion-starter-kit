@@ -107,6 +107,20 @@
   border-color: #FF0000;
 }
 
+.wechat .actionBgPane {
+  background: #7bb32e;
+}
+.wechat:hover {
+  border-color: #7bb32e;
+}
+
+.ChatGPT .actionBgPane {
+  background: #790089;
+}
+.ChatGPT:hover {
+  border-color: #790089;
+}
+
 .medium .actionBgPane {
   background: #00ab6c;
 }
@@ -127,6 +141,42 @@
 .email:hover {
   border-color: #777;
 }
+
+.qrCodeModal {
+  display: block;
+  padding: 15px;
+  background: #070000b9;
+  border-radius: 10px;
+  box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+}
+
+.qrCodeModal img {
+  display: block;
+  object-fit: cover;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.qrCodeModal button {
+  display: block;
+  position: relative;
+  width: 100%;
+  text-align: center;
+  display: block;
+  background: red;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.qrCodeModal button:hover {
+  background: darkred;
+}
+
 
 @media only screen and (max-width: 768px) {
   .links {
