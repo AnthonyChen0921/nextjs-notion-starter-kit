@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'AnthonyCED1',
   github: 'AnthonyChen0921',
-  linkedin: 'erdong-chen-007aa5249',
+  linkedin: 'anthony-ced',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
