@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Erdong (Anthony) Chen',
+  name: 'Erdong Chen',
   domain: 'chen.bio',
-  author: 'Erdong (Anthony) Chen',
+  author: 'Erdong Chen',
 
   // open graph metadata (optional)
-  description: 'Anthony Chen (Erdong Chen)\'s portfolio, blog website',
+  description: 'Erdong Chen)\'s portfolio, blog website',
 
   // social usernames (optional)
   twitter: 'AnthonyCED1',
